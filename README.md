@@ -1,4 +1,4 @@
-# Beast NFT Token
+# BEAST NFT TOKEN
 
 This repo includes smart contract code for BEAST NFT TOKEN.
 
