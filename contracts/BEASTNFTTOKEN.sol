@@ -2,7 +2,7 @@
 
 /**
     #BNFT features:
-    3% fee auto add to the liquidity pool when selling
+    3% fee auto add to the liquidity pool
     2% fee burned forever
     3% fee auto distribute to all holders
     2% fee auto moved to marketing wallet
@@ -517,7 +517,7 @@ contract BEASTNFTTOKEN is Context, IERC20, Ownable {
     function enableAllFees() external onlyOwner() {
         restoreAllFee();
         _previousTaxFee = _taxFee;
-        _previousBurnFee = _taxFee;
+        _previousBurnFee = _burnFee;
         _previousMarketFee = _marketFee;
         _previousLiquidityFee = _liquidityFee;
         setSwapAndLiquifyEnabled(true);
