@@ -9,7 +9,7 @@ Token for BEAST NFT marketplace
 - Total supply: 1,000,000,000
         
 ### Transaction fee:    
-- 3% fee auto add to the liquidity pool when selling
+- 3% fee auto add to the liquidity pool
 - 2% fee burned forever
 - 3% fee auto distribute to all holders
 - 2% fee auto moved to marketing wallet
