@@ -16,3 +16,9 @@ Token for BEAST NFT marketplace
 
 ### Token Address: 
 https://bscscan.com/token/0x8D7f08FfBE0506bAd571a731ECea67F7851107DA
+
+### Whitepaper:
+https://gateway.pinata.cloud/ipfs/QmaVaecBftpSLtNqAJcMr5i1FpR3xs4FFYxyKmwxAB88bZ?preview=1
+
+### Token Audit Document:
+https://gateway.pinata.cloud/ipfs/QmSyJtTLqF5DhjFztNKp7G4vKRGHp6bzcF8xoTcvN8Jo6Q?preview=1
