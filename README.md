@@ -18,7 +18,7 @@ Token for BEAST NFT marketplace
 https://bscscan.com/token/0x8D7f08FfBE0506bAd571a731ECea67F7851107DA
 
 ### Whitepaper:
-https://gateway.pinata.cloud/ipfs/QmQc2mtwN9JWEdAkdnYHLVXxAARhwiupwaVDjpGCdw9cBo
+https://gateway.pinata.cloud/ipfs/QmfDVSnMgHuMjd19b2HVq98PtDxPkJEbRmQvLT9ciYnpbz
 
 ### Token Audit Document:
 https://gateway.pinata.cloud/ipfs/QmSyJtTLqF5DhjFztNKp7G4vKRGHp6bzcF8xoTcvN8Jo6Q
